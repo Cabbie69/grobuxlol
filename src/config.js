@@ -3,13 +3,13 @@ const prefix = "-";
 module.exports = {
   webGuildId: '',
   creator: "",
-  token: "OTE1NzE5MDczNjUwODUxOTAw.Yafr2A.fcdC0Ar4GF9zRHS3tPJpWMri7D8",
+  token: "",
   prefix: prefix,
-  server: "935900325880143873",
+  server: "",
   languages: ["English", "Arabic", "en", "ar"],
   language: "English",
-  owners: ["585932273057136661","908103165344350228"],
-  color: "BLUE",
+  owners: ["",""],
+  color: "RANDOM",
   presence: {
     status: "online",
     activity: {
@@ -23,14 +23,14 @@ module.exports = {
     style: ""
   },
   dataBaseInfo: {
-    apiKey: "AAIzaSyCDvF7f9Rt15NKbil5hKrDXU9mQ",
-    authDomain: "daomar-f503d.firebaseapp.com",
-    databaseURL: "https://daomar-f503d-default-rtdb.firebaseio.com/",
-    projectId: "daomar-f503d",
-    storageBucket: "daomar-f503d.appspot.com",
-    messagingSenderId: "906603551339",
-    appId: "1:906603551339:web:ba965bfa8aa7c55ab4af2e",
-    measurementId: "G-Y3XBEK0MBH"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   },
   defaultData: {
     guildsData: {
